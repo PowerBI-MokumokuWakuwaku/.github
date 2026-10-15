@@ -10,14 +10,9 @@ Power BI を、もくもく手を動かしながら、わくわく楽しく学�
 | 探しているもの | 場所 |
 |---|---|
 | 開催回ごとの資料・サンプル | [sessions](https://github.com/PowerBI-MokumokuWakuwaku/samples/tree/main/sessions) |
-| テーマ別のサンプル（DAX、Power Query など） | [samples](https://github.com/PowerBI-MokumokuWakuwaku/samples/tree/main/samples) |
-| サンプルデータ | [data](https://github.com/PowerBI-MokumokuWakuwaku/samples/tree/main/data) |
+| 共通のサンプルデータ（わくわくマート） | [data](https://github.com/PowerBI-MokumokuWakuwaku/samples/tree/main/data) |
 
-## 📅 開催回
-
-| 開催日 | テーマ | 資料 |
-|---|---|---|
-| 準備中 | | |
+開催回の一覧は [sessions](https://github.com/PowerBI-MokumokuWakuwaku/samples/tree/main/sessions) にまとめています。
 
 ## ⬇️ ダウンロードのしかた
 
